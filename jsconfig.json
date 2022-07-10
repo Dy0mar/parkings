@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "rootDirs": ["src"],
+    "paths": {
+      "*": ["src/*"]
+    }
+  },
+  "typeAcquisition": {
+    "include": ["jest"]
+  },
+  "include": ["src"],
+  "BROWSER": "None"
+}
