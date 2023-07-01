@@ -15,7 +15,7 @@ export const App = () => {
 
   useEffect(() => {
     const load = async () => {
-      // todo: some initial fata set here
+      // todo: some initial data set here
       // fixme: remove timeout
       // await timeout(2000)
     }
